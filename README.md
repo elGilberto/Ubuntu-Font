@@ -5,6 +5,9 @@
 This module is a simple way to apply Ubuntu font systemlessly. 
 
 ## Recent Changes
+### v1.1
+- General optimization
+
 ### v1.0
 - Initial re-release
 
@@ -13,4 +16,4 @@ This module is a simple way to apply Ubuntu font systemlessly.
 - Designer: [Dalton Maag](https://daltonmaag.com/) 
 
 ## Source
-- Module: [GitHub](https://github.com/gloeyisk/Ubuntu-Font)
+- Module: [GitHub](https://github.com/gloeyisk/Ubuntu_Font)

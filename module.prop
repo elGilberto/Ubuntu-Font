@@ -1,7 +1,7 @@
 id=Ubuntu-Font
 name=Ubuntu Font
-version=v1.0
-versionCode=100
+version=v1.1
+versionCode=110
 author=gloeyisk
 description=A simple way to apply Ubuntu font, systemlessly.
 minMagisk=17000
